@@ -157,8 +157,13 @@ i {
   width: 30px;
   background-color: #fff; }
 
-.section__inner {
-  height: 100vh; }
+.section {
+  background: #000; }
+  .section__inner {
+    height: 100vh; }
+  .section h1 {
+    font-size: 80px;
+    margin-top: 60px; }
 
 .offerta__slider {
   height: 100%;

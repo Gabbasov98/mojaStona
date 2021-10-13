@@ -197,8 +197,13 @@ i {
 }
 
 .section {
+    background: #000;
     &__inner {
         height: 100vh;
+    }
+    h1 {
+        font-size: 80px;
+        margin-top: 60px;
     }
 }
 
